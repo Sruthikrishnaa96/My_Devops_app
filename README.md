@@ -1,1 +1,1 @@
-# My_Devops_app
+'Version 1.0 — Hello from Sruthi'
