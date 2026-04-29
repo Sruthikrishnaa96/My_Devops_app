@@ -1,1 +1,1 @@
-'1.1 — Bug fixed'
+'1.2 — Bug fixed'
