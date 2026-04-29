@@ -1,1 +1,1 @@
-'1.2 — Bug fixed'
+'Version 2.0 Released!' 
